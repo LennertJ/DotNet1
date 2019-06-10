@@ -1,0 +1,17 @@
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\bin\Debug\conwayGameOfLife.exe.config
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\bin\Debug\conwayGameOfLife.exe
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\bin\Debug\conwayGameOfLife.pdb
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\MainWindow.g.cs
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\App.g.cs
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\conwayGameOfLife_MarkupCompile.cache
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\conwayGameOfLife_MarkupCompile.lref
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\MainWindow.baml
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\conwayGameOfLife.g.resources
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\conwayGameOfLife.Properties.Resources.resources
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\conwayGameOfLife.csproj.GenerateResource.Cache
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\conwayGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\conwayGameOfLife.exe
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\conwayGameOfLife.pdb
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\premadeSelection.g.cs
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\premadeSelection.baml
+C:\Users\Lennert Jans\source\repos\conwayGameOfLife\conwayGameOfLife\obj\Debug\conwayGameOfLife.csprojAssemblyReference.cache
